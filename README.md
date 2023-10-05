@@ -6,5 +6,6 @@ Remake of the new CS 2 UI
 ## Screenshot
 
 ## License
+See LICENSE in repository
 
 ## Deployed
